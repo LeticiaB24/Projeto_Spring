@@ -1,0 +1,5 @@
+/home/runner/ProjetoSpringboot/src/main/java/com/aula/spring/springboot/Controllers/UsuarioController.java
+/home/runner/ProjetoSpringboot/src/main/java/com/aula/spring/springboot/Entities/Usuario.java
+/home/runner/ProjetoSpringboot/src/main/java/com/aula/spring/springboot/Repositories/UsuarioRepository.java
+/home/runner/ProjetoSpringboot/src/main/java/com/aula/spring/springboot/Services/UsuarioService.java
+/home/runner/ProjetoSpringboot/src/main/java/com/aula/spring/springboot/SpringbootApplication.java
